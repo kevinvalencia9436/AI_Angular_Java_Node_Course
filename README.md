@@ -8,8 +8,6 @@
 - ✅ Déploiement simple (Docker optionnel)  
 - ✅ Composants isolés et testables
 
-
-
 ---
 
 **👉 Looking for the English version?** : [![English](./ui/version-en.png)](./README.en.md)
