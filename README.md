@@ -6,7 +6,10 @@
 - ✅ Stack frontend / backend complète  
 - ✅ Compatibilité CI/CD et Docker  
 - ✅ Déploiement simple (Docker optionnel)  
-- ✅ Composants isolés et testables  
+- ✅ Composants isolés et testables
+
+
+
 ---
 
 **👉 Looking for the English version?** : [![English](./ui/version-en.png)](./README.en.md)
