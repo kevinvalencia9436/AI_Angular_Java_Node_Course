@@ -1,17 +1,20 @@
 import globals from "globals";
 import pluginJs from "@eslint/js";
 
+
 export default [
   {
     ignores: [
       'dist/**',
       'eslint.config.js',
       'webpack.config.js'
+      
     ],
   },
   {
     languageOptions: {
       globals: {
+        
         ...globals.node,
         ...globals.jest,
       },
